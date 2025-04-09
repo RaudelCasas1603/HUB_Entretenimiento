@@ -31,7 +31,7 @@ bash
 
 ## 4. Mockup 
 
-![Mockup de la aplicación](/imagenes_repositorio/Mockup.png)
+![Mockup de la aplicación](/imagenes_repositorio/mockup.png)
 
 ## 5. Explicacion del Proyecto
 
