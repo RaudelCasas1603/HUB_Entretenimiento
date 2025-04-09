@@ -1,4 +1,4 @@
-# HUB_Entretenimiento# 1. Proyecto de Gestión de Películas y Series
+# HUB_Entretenimiento
 
 Este proyecto permite gestionar una lista de películas y series, donde el usuario puede agregar a favoritos, ocultar, y ver detalles de cada uno. Los elementos se agrupan por categorías y se almacenan en localStorage para persistencia de datos.
 
