@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+body {
+    background-color: #f9fdfd; 
+}
+.card{
+    height: 400px;
+}
+.card img{
+    height:200px;
+    object-fit: cover;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+.btn-fav{
+    background-color: #e71caa; 
+}
+#sugerencias{
+    text-align: center;
+=======
+body {
+    background-color: #f9fdfd; 
+}
+.card{
+    height: 400px;
+}
+.card img{
+    height:200px;
+    object-fit: cover;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+.btn-fav{
+    background-color: #e71caa; 
+}
+#sugerencias{
+    text-align: center;
+>>>>>>> 80eea9546c83e5eb585dde776a3a8c2c4262566b
+}
