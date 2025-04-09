@@ -13,17 +13,16 @@ Este proyecto permite gestionar una lista de películas y series, donde el usuar
 ## 3. ¿Cómo instalar?
 
 1. Clona el repositorio en tu máquina:
-    
-bash
+    ```bash
     git clone https://github.com/RaudelCasas1603/HUB_Entretenimiento.git
-
+    ```
 
 2. Abre el proyecto en tu editor de código preferido.
 
 3. Si tienes **Node.js** instalado, puedes usar **Live Server** para ver el proyecto en el navegador. Solo abre la carpeta del proyecto y ejecuta:
-    
-bash
+    ```bash
     live-server index.html
+    ```
 
 
 
