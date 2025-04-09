@@ -15,7 +15,7 @@ Este proyecto permite gestionar una lista de películas y series, donde el usuar
 1. Clona el repositorio en tu máquina:
     
 bash
-    git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+    git clone https://github.com/RaudelCasas1603/HUB_Entretenimiento.git
 
 
 2. Abre el proyecto en tu editor de código preferido.
